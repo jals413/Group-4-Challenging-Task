@@ -7,7 +7,7 @@ Modules needed to import , install using pip :
 1) Module Click 
 2) Module speech_recognition 
 3) Module mysql connector 
-4) Module gtts 
+4) Module gTTS 
 
 Also one needs to setup MySQL on the local computer by creating a user id and password
 
