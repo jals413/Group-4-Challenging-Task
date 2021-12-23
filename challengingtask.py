@@ -18,7 +18,7 @@ try:
     mydb = mysql.connector.connect(
         host="localhost",
         user="root",  # Enter your details.
-        password="redraj200"  # Enter your password.
+        password=""  # Enter your password.
     )
 except Error as err:
     print("Error:", err)
@@ -45,7 +45,7 @@ try:
     mydb = mysql.connector.connect(
         host="localhost",
         user="root",  # Enter your details
-        password="redraj200",  # Enter your password
+        password="",  # Enter your password
         database="bank_account"
     )
 except Error as err:
