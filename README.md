@@ -13,4 +13,4 @@ Also one needs to setup MySQL on the local computer by creating a user id and pa
 
 
 
-After doing all the above mentioned steps , you are good to go :) . Enjoy using the bank service at you home without using your hands 
+After doing all the above mentioned steps , you are good to go :) . Enjoy using the bank service at you home without using your hands. 
